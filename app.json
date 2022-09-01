@@ -19,7 +19,7 @@
 "OWNER_NUMBER" :{
   "description" : "OWNER NUMBER",
   "required" : false,
-  "value" :"94715166712"
+  "value" :"94762517411"
   },
 
  "ALIVE_MESSAGE" :{
@@ -36,7 +36,7 @@
   "SEND_WELCOME_MASSAGE" :{
   "description" : "Send Welcome And Good bye message [ true / false]",
   "required" : true,
-    "value" : "false"
+    "value" : "true"
   },
 
   "LANGUAGE" :{
@@ -60,7 +60,7 @@
   "OWNER_NAME" :{
   "description" : "Type bot owner name",
   "requred" : false,
-  "value" :"ＭＲ ＮＩＭＡ"
+  "value" :"MR DILSHAN MD"
   },
 
   "STICKER_PACK_NAME" :{
@@ -72,7 +72,7 @@
   "STICKER_AUTHOR_NAME" :{
   "description" : "Type stcker autor name",
   "requred" : true,
-  "value" :"ＭＲ.ＮＩＭＡ ＯＦＣ"
+  "value" :"MR. DILSHAN MD"
   },
 
   "ALIVE_LOGO" :{
